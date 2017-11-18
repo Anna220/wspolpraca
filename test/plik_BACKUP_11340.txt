@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-plik pppppppppp
-plik uuuuuuuuuu
-plik oooooooooo
-=======
-plik mmmmmmmmmm
-plik uuuuuuuuuu
-plik hhhhhhhhhh
->>>>>>> branch1
